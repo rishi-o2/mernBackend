@@ -1,4 +1,4 @@
-# FMovies Backend
+# mernBackend Backend
 
 This is the backend service for the FMovies application. It provides authentication, movie wishlist management, and integration with external movie databases.
 
